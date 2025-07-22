@@ -1,1 +1,2 @@
 hello from the Akshay branch!
+This is a second line to test Git revert and reset.
